@@ -8,7 +8,7 @@ const App = ()=>{
 
     return(
          <div>
-            <h1> Hello , How are you</h1>
+            <h1> Hello , Abhishek</h1>
             <p>I am dancing on the floor</p>
 
             <h2>Favourite Fruits</h2>
